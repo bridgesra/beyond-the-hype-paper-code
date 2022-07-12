@@ -2,10 +2,11 @@
 
 This is example code on fake data from our Beyond The Hype paper. It provides a cost-benefit analysis for reasoning about malware detectors.
 
-For details on the approach and when referencing use of this code please cite our paper:
+For details on the approach please see our paper, and when referencing this code please cite our paper:
 
-  Bridges, Robert A., Sean Oesch, Miki E. Verma, Michael D. Iannacone, Kelly MT Huffer, Brian Jewell, Jeff A. Nichols et al. "Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection." arXiv preprint arXiv:2012.09214 (2022).
+Bridges, Robert A., Sean Oesch, Miki E. Verma, Michael D. Iannacone, Kelly MT Huffer, Brian Jewell, Jeff A. Nichols et al. "Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection." arXiv preprint arXiv:2012.09214 (2022).
 
+```
 @misc{bridges2022beyond,
   doi = {10.48550/ARXIV.2012.09214},
   url = {https://arxiv.org/abs/2012.09214},  
@@ -14,6 +15,7 @@ For details on the approach and when referencing use of this code please cite ou
   publisher = {arXiv},  
   year = {2022},
 }
+```
 
 
 Repository contents:

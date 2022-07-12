@@ -12,7 +12,7 @@ with the last entry the total cost.
 import pandas as pd
 import numpy as np
 import json, os, sys
-sys.path.append(os.path.join(os.getcwd(), 'to_share'))
+sys.path.append(os.path.join(os.getcwd(), 'code'))
 from config import *
 
 
@@ -172,7 +172,7 @@ def get_cost_diff_adding_network_tool(df, network_tool_colname = "time_to_detect
 
 
 if __name__ == '__main__':
-    df = pd.read_csv(os.path.join("to_share", "fake_data_table.csv")) ## reads in data
+    df = pd.read_csv(os.path.join(".", "fake_data_table.csv")) ## reads in data
 
     ## make data per tool:
     df1 = df[['filename', 'filetype', 'malicious', 'polyglot', 'zero_day','time_to_detect_1']].rename({"time_to_detect_1": "time_to_detect"}, axis =1) ## first tool's results only

@@ -6,16 +6,16 @@ For details on the approach please see our paper, and when referencing this code
 
 Bridges, Robert A., Sean Oesch, Miki E. Verma, Michael D. Iannacone, Kelly MT Huffer, Brian Jewell, Jeff A. Nichols et al. "Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection." arXiv preprint arXiv:2012.09214 (2022).
 
-"""
-  @misc{bridges2022beyond,
-    doi = {10.48550/ARXIV.2012.09214},
-    url = {https://arxiv.org/abs/2012.09214},  
-    author = {Bridges, Robert A. and Oesch, Sean and Verma, Miki E. and Iannacone, Michael D. and Huffer, Kelly M. T. and Jewell, Brian and Nichols, Jeff A. and Weber, Brian and Beaver, Justin M. and Smith, Jared M. and Scofield, Daniel and Miles, Craig and Plummer, Thomas and Daniell, Mark and Tall, Anne M.},
-    title = {Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection},  
-    publisher = {arXiv},  
-    year = {2022},
-  }
-"""
+```
+@misc{bridges2022beyond,
+  doi = {10.48550/ARXIV.2012.09214},
+  url = {https://arxiv.org/abs/2012.09214},  
+  author = {Bridges, Robert A. and Oesch, Sean and Verma, Miki E. and Iannacone, Michael D. and Huffer, Kelly M. T. and Jewell, Brian and Nichols, Jeff A. and Weber, Brian and Beaver, Justin M. and Smith, Jared M. and Scofield, Daniel and Miles, Craig and Plummer, Thomas and Daniell, Mark and Tall, Anne M.},
+  title = {Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection},  
+  publisher = {arXiv},  
+  year = {2022},
+}
+```
 
 
 Repository contents:

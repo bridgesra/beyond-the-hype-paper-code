@@ -2,7 +2,7 @@
 
 This is example code on fake data from our Beyond The Hype paper. It provides a cost-benefit analysis for reasoning about malware detectors.
 
-For details on the approach please see our paper, and when referencing this code please cite our paper:
+For details on the approach please see our paper, and when referencing this code please cite our paper. As of Oct 3, 2022, the paper is accepted to Digital Treats: Research and Practice Journal, but it has not yet appeared. Please use Arxiv version until the accepted paper is full published in the journal:
 
 Bridges, Robert A., Sean Oesch, Miki E. Verma, Michael D. Iannacone, Kelly MT Huffer, Brian Jewell, Jeff A. Nichols et al. "Beyond the Hype: A Real-World Evaluation of the Impact and Cost of Machine Learning-Based Malware Detection." arXiv preprint arXiv:2012.09214 (2022).
 
